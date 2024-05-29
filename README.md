@@ -13,10 +13,6 @@ This repository contains three main tasks:
 - [Task 1: Documentation of Python Visualization Libraries](#task-1-documentation-of-python-visualization-libraries)
 - [Task 2: Delhi AQI Data Analysis](#task-2-delhi-aqi-data-analysis)
 - [Task 3: Second-Hand Car Price Prediction](#task-3-second-hand-car-price-prediction)
-- [Setup and Installation](#setup-and-installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Task 1: Documentation of Python Visualization Libraries
 
@@ -71,9 +67,4 @@ This task focuses on predicting the prices of second-hand cars using a dataset o
 4. Training machine learning models for price prediction
 5. Evaluating model performance
 
-## Setup and Installation
 
-To run the notebooks and reproduce the analysis, you need to have Python installed along with the required libraries. You can install the necessary libraries using the following command:
-
-```bash
-pip install -r requirements.txt
